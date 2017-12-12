@@ -1,0 +1,10 @@
+{
+    "name": "jojocoin",
+    "version": "1.0.0",
+    "description": "Trying out blockchain using JavaScript",
+    "author": "Jojo Sardez",
+    "license": "MIT",
+    "dependencies": {
+        "crypto-js": "^3.1.9-1"
+    }
+}
